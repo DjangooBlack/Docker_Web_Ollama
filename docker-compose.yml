@@ -69,4 +69,4 @@ volumes:
   open_webui_data:
   openclaw_data:
   lightrag_data:
-  lightrag_inputs:
+  lightrag_inputs:
